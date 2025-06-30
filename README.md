@@ -37,3 +37,7 @@ The joins are tested with meaningful sample data that reflects real-world scenar
 This task serves as a strong foundation for understanding join operations in SQL. It is particularly useful for students, beginners, and database learners who are practicing SQL queries for projects or interviews. The code is clean, simple, and runs well in platforms like SQLFiddle, DB-Fiddle, or local SQL environments like MySQL Workbench and PostgreSQL.
 
 In summary, this Task-1 script demonstrates INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN with meaningful examples, and prepares the learner for more complex multi-table queries in real database systems.
+
+OUTPUT:
+
+
