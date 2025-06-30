@@ -40,4 +40,6 @@ In summary, this Task-1 script demonstrates INNER JOIN, LEFT JOIN, RIGHT JOIN, a
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/8c4a6fac-a713-4434-936c-f5bd34ad94b6)
+
 
